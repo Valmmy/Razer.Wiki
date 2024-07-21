@@ -1,0 +1,16 @@
+@font-face{
+    font-family: 'OLD';
+    src: url(../razer.fun.wiki/fonts/ofont.ru_Oldtimer.ttf);
+}
+@font-face{
+    font-family: 'SIL';
+    src: url(../razer.fun.wiki/fonts/Silkscreen/Silkscreen-Regular.ttf);
+}
+@font-face {
+    font-family: 'EpS';
+    src: url(../razer.fun.wiki/fonts/EpilepsySans.ttf);
+}
+@font-face {
+    font-family: 'EpSB';
+    src: url(../razer.fun.wiki/fonts/EpilepsySansBold.ttf);
+}

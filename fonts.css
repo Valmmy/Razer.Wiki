@@ -1,0 +1,16 @@
+@font-face{
+    font-family: 'OLD';
+    src: url(fonts/ofont.ru_Oldtimer.ttf);
+}
+@font-face{
+    font-family: 'SIL';
+    src: url(fonts/Silkscreen/Silkscreen-Regular.ttf);
+}
+@font-face {
+    font-family: 'EpS';
+    src: url(fonts/EpilepsySans.ttf);
+}
+@font-face {
+    font-family: 'EpSB';
+    src: url(fonts/EpilepsySansBold.ttf);
+}
